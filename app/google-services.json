@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "339782801301",
+    "firebase_url": "https://greenhouse-hsd-default-rtdb.firebaseio.com",
+    "project_id": "greenhouse-hsd",
+    "storage_bucket": "greenhouse-hsd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339782801301:android:1df45642b6a251682a089c",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339782801301-3sidobrtd0399g534phtfbbvfg63c798.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gOrrJTzM_fHAiK394S8jamliX2RAhbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339782801301-3sidobrtd0399g534phtfbbvfg63c798.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339782801301:android:af83c316e616539b2a089c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339782801301-3sidobrtd0399g534phtfbbvfg63c798.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gOrrJTzM_fHAiK394S8jamliX2RAhbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339782801301-3sidobrtd0399g534phtfbbvfg63c798.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
